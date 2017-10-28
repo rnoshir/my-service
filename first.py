@@ -1,2 +1,2 @@
-print "hello word"
-print "hello word"
+print "hello word to All"
+print "hello python"
